@@ -11,7 +11,7 @@ body {
 }
 
 .navbar {
-  background-color: #333333;
+  background: linear-gradient(90deg, #00c9ff 0%, #92FE9D 100%);
   height: 12%;
   display: flex;
 }
